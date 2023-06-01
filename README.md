@@ -2,9 +2,9 @@
 
 DATE: 
 
-GITHUB LINK: https://github.com/saran7d/DS-EX-10.git
+GITHUB LINK: 
 
-COLAB LINK: https://colab.research.google.com/drive/1NVXuiyaSNIa2AyA1-P9UxAfYcm096ZPl?usp=sharing
+COLAB LINK: 
 
 ## AIM :
 
@@ -22,9 +22,9 @@ To Perform Bivariate/Multivariate Analysis
 
 ## PROGRAM :
 
-Developed by: Sathiya Narayanan G
+Developed by: KUMARAVEL R
 
-Reg no: 212221220049
+Reg no: 212221220029
 
 import pandas as pd
 
